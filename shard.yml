@@ -1,0 +1,7 @@
+name: visual_cr
+version: 0.1.0
+author: Kryptexdll
+
+dependencies:
+  discordcr:
+    github: shardlab/discordcr
